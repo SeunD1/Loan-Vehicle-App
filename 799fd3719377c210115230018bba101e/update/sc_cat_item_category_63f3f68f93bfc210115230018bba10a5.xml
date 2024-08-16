@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="Request Loaner Vehicle">abf52e0393bfc210115230018bba1083</sc_cat_item>
+        <sc_category display_value="Loaner Vehicle">f662768f93bfc210115230018bba10ef</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-08 11:11:18</sys_created_on>
+        <sys_id>63f3f68f93bfc210115230018bba10a5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Loaner Vehicle.Request Loaner Vehicle</sys_name>
+        <sys_package display_value="Loan Vehicle App" source="x_1425817_loan_veh">799fd3719377c210115230018bba101e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loan Vehicle App">799fd3719377c210115230018bba101e</sys_scope>
+        <sys_update_name>sc_cat_item_category_63f3f68f93bfc210115230018bba10a5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-08 11:11:18</sys_updated_on>
+    </sc_cat_item_category>
+</record_update>
