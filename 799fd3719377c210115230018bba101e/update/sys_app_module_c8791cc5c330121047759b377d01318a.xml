@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Loaner Vehicle App">bb1994c5c330121047759b377d01317f</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint>Loaner Vehicle Portal</hint>
+        <homepage/>
+        <image/>
+        <link_type>DIRECT</link_type>
+        <map_page/>
+        <mobile_title>LVA Portal</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name/>
+        <order>10</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query>https://dev189982.service-now.com/$spd.do#/lvra/preview/desktop/lvra_page</query>
+        <report/>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-20 12:00:51</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>c8791cc5c330121047759b377d01318a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>LVA Portal</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Loan Vehicle App" source="x_1425817_loan_veh">799fd3719377c210115230018bba101e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loan Vehicle App">799fd3719377c210115230018bba101e</sys_scope>
+        <sys_update_name>sys_app_module_c8791cc5c330121047759b377d01318a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-20 12:00:51</sys_updated_on>
+        <timeline_page/>
+        <title>LVA Portal</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name>Loaner Vehicle Homepage</window_name>
+    </sys_app_module>
+</record_update>
