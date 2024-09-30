@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance_table">
+    <sp_instance_table action="DELETE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <display_field/>
+        <field_list/>
+        <filter/>
+        <glyph/>
+        <id/>
+        <maximum_entries>5</maximum_entries>
+        <order>1</order>
+        <order_by/>
+        <order_direction>asc</order_direction>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">5bfad1e293e41210115230018bba1028</sp_column>
+        <sp_page/>
+        <sp_widget display_value="Data Table from Instance Definition">38058ff1cb11020000f8d856634c9c8c</sp_widget>
+        <sys_class_name>sp_instance_table</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-12 22:13:34</sys_created_on>
+        <sys_id>753bd5e293e41210115230018bba101f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Loan Vehicle App" source="x_1425817_loan_veh">799fd3719377c210115230018bba101e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loan Vehicle App">799fd3719377c210115230018bba101e</sys_scope>
+        <sys_update_name>sp_instance_table_753bd5e293e41210115230018bba101f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-12 22:13:34</sys_updated_on>
+        <table/>
+        <title/>
+        <url/>
+        <widget_parameters/>
+    </sp_instance_table>
+    <sys_translated_text action="DELETE" query="documentkey=753bd5e293e41210115230018bba101f"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Loan Vehicle App">799fd3719377c210115230018bba101e</application>
+        <file_path/>
+        <instance_id>9fb1b654db823994199b1729139619b7</instance_id>
+        <instance_name>dev189982</instance_name>
+        <name>sp_instance_table_753bd5e293e41210115230018bba101f</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance_table"><sp_instance_table action="INSERT_OR_UPDATE"><active>true</active><class_name/><color>default</color><css/><display_field/><field_list/><filter/><glyph/><id/><maximum_entries>5</maximum_entries><order>1</order><order_by/><order_direction>asc</order_direction><roles/><short_description/><size>md</size><sp_column display_value="1">5bfad1e293e41210115230018bba1028</sp_column><sp_page/><sp_widget display_value="Data Table from Instance Definition">38058ff1cb11020000f8d856634c9c8c</sp_widget><sys_class_name>sp_instance_table</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-09-12 22:13:34</sys_created_on><sys_id>753bd5e293e41210115230018bba101f</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="Loan Vehicle App" source="x_1425817_loan_veh">799fd3719377c210115230018bba101e</sys_package><sys_policy/><sys_scope display_value="Loan Vehicle App">799fd3719377c210115230018bba101e</sys_scope><sys_update_name>sp_instance_table_753bd5e293e41210115230018bba101f</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-09-12 22:13:34</sys_updated_on><table/><title/><url/><widget_parameters/></sp_instance_table><sys_translated_text action="delete_multiple" query="documentkey=753bd5e293e41210115230018bba101f"/></record_update>]]></payload>
+        <payload_hash>702862408</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>4a9fd3719377c210115230018bba1022</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-12 22:13:35</sys_created_on>
+        <sys_id>f13bd5e293e41210115230018bba1021</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>191e84c876e0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-12 22:13:35</sys_updated_on>
+        <type>Instance with Table</type>
+        <update_guid>393bd5e2f0e412108c45b031bedc9620</update_guid>
+        <update_guid_history>393bd5e2f0e412108c45b031bedc9620:702862408</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">574bdd2293e41210115230018bba1074</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-12 22:13:57</sys_created_on>
+        <sys_db_object display_value="" name="sp_instance_table">sp_instance_table</sys_db_object>
+        <sys_id>3b1f6351ac664ce79dcb2cde360f8ae1</sys_id>
+        <sys_metadata>753bd5e293e41210115230018bba101f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Loan Vehicle App" source="x_1425817_loan_veh">799fd3719377c210115230018bba101e</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Loan Vehicle App">799fd3719377c210115230018bba101e</sys_scope>
+        <sys_scope_delete display_value="">29fd45a9a2944d799efe5e5de17fd019</sys_scope_delete>
+        <sys_update_name>sp_instance_table_753bd5e293e41210115230018bba101f</sys_update_name>
+        <sys_update_version display_value="sp_instance_table_753bd5e293e41210115230018bba101f">f13bd5e293e41210115230018bba1021</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-12 22:13:57</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

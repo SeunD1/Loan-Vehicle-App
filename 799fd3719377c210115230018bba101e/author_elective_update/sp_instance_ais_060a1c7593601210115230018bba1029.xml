@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance_ais">
+    <sp_instance_ais action="DELETE">
+        <active>true</active>
+        <ai_search_source_filter/>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <disable_all_suggestions>false</disable_all_suggestions>
+        <glyph/>
+        <id/>
+        <order>1</order>
+        <placeholder/>
+        <roles/>
+        <search_application/>
+        <search_results_configuration/>
+        <short_description/>
+        <size>lg</size>
+        <sp_column display_value="1">0a0a1c7593601210115230018bba1026</sp_column>
+        <sp_widget display_value="Homepage Search">200fbd96cb20020000f8d856634c9ca1</sp_widget>
+        <spell_check_font_size>xl</spell_check_font_size>
+        <sys_class_name>sp_instance_ais</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-10 09:33:20</sys_created_on>
+        <sys_id>060a1c7593601210115230018bba1029</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>How can we help?</sys_name>
+        <sys_package display_value="Loan Vehicle App" source="x_1425817_loan_veh">799fd3719377c210115230018bba101e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loan Vehicle App">799fd3719377c210115230018bba101e</sys_scope>
+        <sys_update_name>sp_instance_ais_060a1c7593601210115230018bba1029</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-10 10:45:42</sys_updated_on>
+        <title>How can we help?</title>
+        <url/>
+        <widget_parameters/>
+    </sp_instance_ais>
+    <sys_translated_text action="DELETE" query="documentkey=060a1c7593601210115230018bba1029"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Loan Vehicle App">799fd3719377c210115230018bba101e</application>
+        <file_path/>
+        <instance_id>9fb1b654db823994199b1729139619b7</instance_id>
+        <instance_name>dev189982</instance_name>
+        <name>sp_instance_ais_060a1c7593601210115230018bba1029</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance_ais"><sp_instance_ais action="INSERT_OR_UPDATE"><active>true</active><ai_search_source_filter/><class_name/><color>default</color><css/><disable_all_suggestions>false</disable_all_suggestions><glyph/><id/><order>1</order><placeholder/><roles/><search_application/><search_results_configuration/><short_description/><size>lg</size><sp_column display_value="1">0a0a1c7593601210115230018bba1026</sp_column><sp_widget display_value="Homepage Search">200fbd96cb20020000f8d856634c9ca1</sp_widget><spell_check_font_size>xl</spell_check_font_size><sys_class_name>sp_instance_ais</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-09-10 09:33:20</sys_created_on><sys_id>060a1c7593601210115230018bba1029</sys_id><sys_mod_count>1</sys_mod_count><sys_name>How can we help?</sys_name><sys_package display_value="Loan Vehicle App" source="x_1425817_loan_veh">799fd3719377c210115230018bba101e</sys_package><sys_policy/><sys_scope display_value="Loan Vehicle App">799fd3719377c210115230018bba101e</sys_scope><sys_update_name>sp_instance_ais_060a1c7593601210115230018bba1029</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-09-10 10:45:42</sys_updated_on><title>How can we help?</title><url/><widget_parameters/></sp_instance_ais><sys_translated_text action="delete_multiple" query="documentkey=060a1c7593601210115230018bba1029"/></record_update>]]></payload>
+        <payload_hash>-1130424483</payload_hash>
+        <record_name>How can we help?</record_name>
+        <reverted_from/>
+        <source>4a9fd3719377c210115230018bba1022</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-10 10:45:42</sys_created_on>
+        <sys_id>529ae8f593a01210115230018bba100f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>191db8a0b590000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-10 10:45:42</sys_updated_on>
+        <type>Instance with Search</type>
+        <update_guid>5a9ae8f554a01210b8592d950131d00e</update_guid>
+        <update_guid_history>5a9ae8f554a01210b8592d950131d00e:-1130424483,060a1c75af601210637b6b6db0bc252b:332154878</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="How can we help?">e17c583393a01210115230018bba10c9</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-16 14:51:48</sys_created_on>
+        <sys_db_object display_value="" name="sp_instance_ais">sp_instance_ais</sys_db_object>
+        <sys_id>24069cc25d2547f0ad3a8ded6753b810</sys_id>
+        <sys_metadata>060a1c7593601210115230018bba1029</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>How can we help?</sys_name>
+        <sys_package display_value="Loan Vehicle App" source="x_1425817_loan_veh">799fd3719377c210115230018bba101e</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Loan Vehicle App">799fd3719377c210115230018bba101e</sys_scope>
+        <sys_scope_delete display_value="">29fd45a9a2944d799efe5e5de17fd019</sys_scope_delete>
+        <sys_update_name>sp_instance_ais_060a1c7593601210115230018bba1029</sys_update_name>
+        <sys_update_version display_value="sp_instance_ais_060a1c7593601210115230018bba1029">529ae8f593a01210115230018bba100f</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-16 14:51:48</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

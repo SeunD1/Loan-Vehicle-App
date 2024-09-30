@@ -9,7 +9,7 @@
         <name>x_1425817_lva_catalogs_user</name>
         <requires_subscription>-1</requires_subscription>
         <scoped_admin>false</scoped_admin>
-        <suffix/>
+        <suffix>x_1425817_lva_catalogs_user</suffix>
         <sys_class_name>sys_user_role</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-08-06 12:58:03</sys_created_on>

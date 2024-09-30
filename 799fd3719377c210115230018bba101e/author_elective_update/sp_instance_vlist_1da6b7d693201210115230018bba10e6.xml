@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance_vlist">
+    <sp_instance_vlist action="DELETE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <display_field>image</display_field>
+        <field_list>number,vehicle_make,vehicle_model,vehicle_description,status,image</field_list>
+        <filter/>
+        <glyph>road</glyph>
+        <id/>
+        <maximum_entries>5</maximum_entries>
+        <order>2</order>
+        <order_by/>
+        <order_direction>asc</order_direction>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">aa0a1c7593601210115230018bba1097</sp_column>
+        <sp_page/>
+        <sp_widget display_value="Requested Items">624afdb3d7230200a9addd173e24d4f4</sp_widget>
+        <sys_class_name>sp_instance_vlist</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-12 14:54:10</sys_created_on>
+        <sys_id>1da6b7d693201210115230018bba10e6</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name>Loaner Vehicles Available</sys_name>
+        <sys_package display_value="Loan Vehicle App" source="x_1425817_loan_veh">799fd3719377c210115230018bba101e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loan Vehicle App">799fd3719377c210115230018bba101e</sys_scope>
+        <sys_update_name>sp_instance_vlist_1da6b7d693201210115230018bba10e6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-12 15:28:57</sys_updated_on>
+        <table>x_1425817_loan_veh_loaner_vehicle_catalogs</table>
+        <title>Loaner Vehicles Available</title>
+        <url/>
+        <widget_parameters><![CDATA[{
+	"auto_expand_request_item_stages": {
+		"value": "true",
+		"displayValue": "true"
+	}
+}]]></widget_parameters>
+    </sp_instance_vlist>
+    <sys_translated_text action="DELETE" query="documentkey=1da6b7d693201210115230018bba10e6"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Loan Vehicle App">799fd3719377c210115230018bba101e</application>
+        <file_path/>
+        <instance_id>9fb1b654db823994199b1729139619b7</instance_id>
+        <instance_name>dev189982</instance_name>
+        <name>sp_instance_vlist_1da6b7d693201210115230018bba10e6</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sp_instance_vlist"&gt;&lt;sp_instance_vlist action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;class_name/&gt;&lt;color&gt;default&lt;/color&gt;&lt;css/&gt;&lt;display_field&gt;image&lt;/display_field&gt;&lt;field_list&gt;number,vehicle_make,vehicle_model,vehicle_description,status,image&lt;/field_list&gt;&lt;filter/&gt;&lt;glyph&gt;road&lt;/glyph&gt;&lt;id/&gt;&lt;maximum_entries&gt;5&lt;/maximum_entries&gt;&lt;order&gt;2&lt;/order&gt;&lt;order_by/&gt;&lt;order_direction&gt;asc&lt;/order_direction&gt;&lt;roles/&gt;&lt;short_description/&gt;&lt;size&gt;md&lt;/size&gt;&lt;sp_column display_value="1"&gt;aa0a1c7593601210115230018bba1097&lt;/sp_column&gt;&lt;sp_page/&gt;&lt;sp_widget display_value="Requested Items"&gt;624afdb3d7230200a9addd173e24d4f4&lt;/sp_widget&gt;&lt;sys_class_name&gt;sp_instance_vlist&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2024-09-12 14:54:10&lt;/sys_created_on&gt;&lt;sys_id&gt;1da6b7d693201210115230018bba10e6&lt;/sys_id&gt;&lt;sys_mod_count&gt;5&lt;/sys_mod_count&gt;&lt;sys_name&gt;Loaner Vehicles Available&lt;/sys_name&gt;&lt;sys_package display_value="Loan Vehicle App" source="x_1425817_loan_veh"&gt;799fd3719377c210115230018bba101e&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Loan Vehicle App"&gt;799fd3719377c210115230018bba101e&lt;/sys_scope&gt;&lt;sys_update_name&gt;sp_instance_vlist_1da6b7d693201210115230018bba10e6&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2024-09-12 15:28:57&lt;/sys_updated_on&gt;&lt;table&gt;x_1425817_loan_veh_loaner_vehicle_catalogs&lt;/table&gt;&lt;title&gt;Loaner Vehicles Available&lt;/title&gt;&lt;url/&gt;&lt;widget_parameters&gt;&lt;![CDATA[{
+	"auto_expand_request_item_stages": {
+		"value": "true",
+		"displayValue": "true"
+	}
+}]]&gt;&lt;/widget_parameters&gt;&lt;/sp_instance_vlist&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=1da6b7d693201210115230018bba10e6"/&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>-49700147</payload_hash>
+        <record_name>Loaner Vehicles Available</record_name>
+        <reverted_from/>
+        <source>4a9fd3719377c210115230018bba1022</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-12 15:28:57</sys_created_on>
+        <sys_id>729eb31293601210115230018bba103b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>191e6da149e0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-12 15:28:57</sys_updated_on>
+        <type>Instance of Simple List</type>
+        <update_guid>7a9eb3123d6012105dec910f49b8413a</update_guid>
+        <update_guid_history>7a9eb3123d6012105dec910f49b8413a:-49700147,a1e87f1a37201210dedd35970720ef08:1360988397,ff68f75ad3201210ac82b5d1aaf48b32:391427325,4467f31ace201210fe77094227db5faa:2054296022,da37f7d66a201210c6540d8d89d294d2:1481947890,15a6b7d6e0201210bcb9cef6c62f52e8:-374803622</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Loaner Vehicles Available">574f771293601210115230018bba10ce</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-12 15:32:00</sys_created_on>
+        <sys_db_object display_value="" name="sp_instance_vlist">sp_instance_vlist</sys_db_object>
+        <sys_id>0c78b91f1be442da9468be2622d7db91</sys_id>
+        <sys_metadata>1da6b7d693201210115230018bba10e6</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Loaner Vehicles Available</sys_name>
+        <sys_package display_value="Loan Vehicle App" source="x_1425817_loan_veh">799fd3719377c210115230018bba101e</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Loan Vehicle App">799fd3719377c210115230018bba101e</sys_scope>
+        <sys_scope_delete display_value="">29fd45a9a2944d799efe5e5de17fd019</sys_scope_delete>
+        <sys_update_name>sp_instance_vlist_1da6b7d693201210115230018bba10e6</sys_update_name>
+        <sys_update_version display_value="sp_instance_vlist_1da6b7d693201210115230018bba10e6">729eb31293601210115230018bba103b</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-12 15:32:00</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

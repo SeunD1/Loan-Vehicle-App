@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_row">
+    <sp_row action="DELETE">
+        <class_name/>
+        <order>1</order>
+        <semantic_tag/>
+        <sp_column/>
+        <sp_container display_value="LVRA page - Container 4">a6a5d1b593641210115230018bba1042</sp_container>
+        <sys_class_name>sp_row</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-10 14:03:42</sys_created_on>
+        <sys_id>7ae755f593641210115230018bba105c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>1</sys_name>
+        <sys_package display_value="Loan Vehicle App" source="x_1425817_loan_veh">799fd3719377c210115230018bba101e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loan Vehicle App">799fd3719377c210115230018bba101e</sys_scope>
+        <sys_update_name>sp_row_7ae755f593641210115230018bba105c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-10 14:03:42</sys_updated_on>
+    </sp_row>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Loan Vehicle App">799fd3719377c210115230018bba101e</application>
+        <file_path/>
+        <instance_id>9fb1b654db823994199b1729139619b7</instance_id>
+        <instance_name>dev189982</instance_name>
+        <name>sp_row_7ae755f593641210115230018bba105c</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_row"><sp_row action="INSERT_OR_UPDATE"><class_name/><order>1</order><semantic_tag/><sp_column/><sp_container display_value="LVRA page - Container 4">a6a5d1b593641210115230018bba1042</sp_container><sys_class_name>sp_row</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-09-10 14:03:42</sys_created_on><sys_id>7ae755f593641210115230018bba105c</sys_id><sys_mod_count>0</sys_mod_count><sys_name>1</sys_name><sys_package display_value="Loan Vehicle App" source="x_1425817_loan_veh">799fd3719377c210115230018bba101e</sys_package><sys_policy/><sys_scope display_value="Loan Vehicle App">799fd3719377c210115230018bba101e</sys_scope><sys_update_name>sp_row_7ae755f593641210115230018bba105c</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-09-10 14:03:42</sys_updated_on></sp_row></record_update>]]></payload>
+        <payload_hash>-1899514810</payload_hash>
+        <record_name>1</record_name>
+        <reverted_from/>
+        <source>4a9fd3719377c210115230018bba1022</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-10 14:03:42</sys_created_on>
+        <sys_id>36e755f593641210115230018bba105e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>191dc3f51360000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-10 14:03:42</sys_updated_on>
+        <type>Row</type>
+        <update_guid>7ae755f50a6412105f579d994147e55d</update_guid>
+        <update_guid_history>7ae755f50a6412105f579d994147e55d:-1899514810</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="1">59f7d93993641210115230018bba1053</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-10 14:03:53</sys_created_on>
+        <sys_db_object display_value="" name="sp_row">sp_row</sys_db_object>
+        <sys_id>48ae59c6385c40a0b7ed5ddd6c87c400</sys_id>
+        <sys_metadata>7ae755f593641210115230018bba105c</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>1</sys_name>
+        <sys_package display_value="Loan Vehicle App" source="x_1425817_loan_veh">799fd3719377c210115230018bba101e</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Loan Vehicle App">799fd3719377c210115230018bba101e</sys_scope>
+        <sys_scope_delete display_value="">29fd45a9a2944d799efe5e5de17fd019</sys_scope_delete>
+        <sys_update_name>sp_row_7ae755f593641210115230018bba105c</sys_update_name>
+        <sys_update_version display_value="sp_row_7ae755f593641210115230018bba105c">36e755f593641210115230018bba105e</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-10 14:03:53</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

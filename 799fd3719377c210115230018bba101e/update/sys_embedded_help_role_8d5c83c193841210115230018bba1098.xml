@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_1425817_loan_veh.lva_location" name="x_1425817_loan_veh.lva_location">1d1c838193c41210115230018bba10ea</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-14 18:05:29</sys_created_on>
+        <sys_id>8d5c83c193841210115230018bba1098</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>1d1c838193c41210115230018bba10ea</sys_name>
+        <sys_package display_value="Loan Vehicle App" source="x_1425817_loan_veh">799fd3719377c210115230018bba101e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loan Vehicle App">799fd3719377c210115230018bba101e</sys_scope>
+        <sys_update_name>sys_embedded_help_role_8d5c83c193841210115230018bba1098</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-14 18:05:29</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

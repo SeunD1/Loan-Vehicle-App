@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_container">
+    <sp_container action="DELETE">
+        <background_color/>
+        <background_image/>
+        <background_style>default</background_style>
+        <bootstrap_alt>false</bootstrap_alt>
+        <class_name/>
+        <container_class_name/>
+        <name>LVRA page - Container 5</name>
+        <order>5</order>
+        <semantic_tag/>
+        <sp_page display_value="lvra_page">020a947593601210115230018bba105c</sp_page>
+        <subheader>false</subheader>
+        <sys_class_name>sp_container</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-10 14:00:48</sys_created_on>
+        <sys_id>1847553993241210115230018bba1037</sys_id>
+        <sys_mod_count>7</sys_mod_count>
+        <sys_name>LVRA page - Container 5</sys_name>
+        <sys_package display_value="Loan Vehicle App" source="x_1425817_loan_veh">799fd3719377c210115230018bba101e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loan Vehicle App">799fd3719377c210115230018bba101e</sys_scope>
+        <sys_update_name>sp_container_1847553993241210115230018bba1037</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-16 14:58:28</sys_updated_on>
+        <title/>
+        <width>container</width>
+    </sp_container>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Loan Vehicle App">799fd3719377c210115230018bba101e</application>
+        <file_path/>
+        <instance_id>9fb1b654db823994199b1729139619b7</instance_id>
+        <instance_name>dev189982</instance_name>
+        <name>sp_container_1847553993241210115230018bba1037</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_container"><sp_container action="INSERT_OR_UPDATE"><background_color/><background_image/><background_style>default</background_style><bootstrap_alt>false</bootstrap_alt><class_name/><container_class_name/><name>LVRA page - Container 5</name><order>5</order><semantic_tag/><sp_page display_value="lvra_page">020a947593601210115230018bba105c</sp_page><subheader>false</subheader><sys_class_name>sp_container</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-09-10 14:00:48</sys_created_on><sys_id>1847553993241210115230018bba1037</sys_id><sys_mod_count>7</sys_mod_count><sys_name>LVRA page - Container 5</sys_name><sys_package display_value="Loan Vehicle App" source="x_1425817_loan_veh">799fd3719377c210115230018bba101e</sys_package><sys_policy/><sys_scope display_value="Loan Vehicle App">799fd3719377c210115230018bba101e</sys_scope><sys_update_name>sp_container_1847553993241210115230018bba1037</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-09-16 14:58:28</sys_updated_on><title/><width>container</width></sp_container></record_update>]]></payload>
+        <payload_hash>-1060858873</payload_hash>
+        <record_name>LVRA page - Container 5</record_name>
+        <reverted_from/>
+        <source>4a9fd3719377c210115230018bba1022</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-16 14:58:28</sys_created_on>
+        <sys_id>9ffd58b393a01210115230018bba10e2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>191fb579cfe0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-16 14:58:28</sys_updated_on>
+        <type>Container</type>
+        <update_guid>97fd58b3b4a0121058a8dbd8c6b30fe2</update_guid>
+        <update_guid_history>97fd58b3b4a0121058a8dbd8c6b30fe2:-1060858873,e9ed18b3b1a0121061205907079ba065:170849288,1cc8d922e8e4121009e390661431e0cc:-1060858873,d9ce77128a6012104de008b979f31170:2002400262,f936bf96dc2012108ac7811085c8c8e5:-1060858873,bf7855799e641210176e4211da8837a8:2002400262,9df7d939476412108350ff14113e8662:-1060858873,d44755397a24121027926963ac3d9e38:2002400262</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="LVRA page - Container 5">a86e50b393a01210115230018bba10d0</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-16 15:00:11</sys_created_on>
+        <sys_db_object display_value="" name="sp_container">sp_container</sys_db_object>
+        <sys_id>076e276e05764faf99e7f58a60421841</sys_id>
+        <sys_metadata>1847553993241210115230018bba1037</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>LVRA page - Container 5</sys_name>
+        <sys_package display_value="Loan Vehicle App" source="x_1425817_loan_veh">799fd3719377c210115230018bba101e</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Loan Vehicle App">799fd3719377c210115230018bba101e</sys_scope>
+        <sys_scope_delete display_value="">29fd45a9a2944d799efe5e5de17fd019</sys_scope_delete>
+        <sys_update_name>sp_container_1847553993241210115230018bba1037</sys_update_name>
+        <sys_update_version display_value="sp_container_1847553993241210115230018bba1037">9ffd58b393a01210115230018bba10e2</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-16 15:00:11</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

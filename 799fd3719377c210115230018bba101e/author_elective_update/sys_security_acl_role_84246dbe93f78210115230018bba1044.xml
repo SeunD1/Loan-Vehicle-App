@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-07 10:43:54</sys_created_on>
+        <sys_id>84246dbe93f78210115230018bba1044</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1425817_loan_veh_loaner_catalog.x_1425817_loan_veh.lva_user</sys_name>
+        <sys_package display_value="Loan Vehicle App" source="x_1425817_loan_veh">799fd3719377c210115230018bba101e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loan Vehicle App">799fd3719377c210115230018bba101e</sys_scope>
+        <sys_security_acl display_value="x_1425817_loan_veh_loaner_catalog">84246dbe93f78210115230018bba1041</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_84246dbe93f78210115230018bba1044</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-07 10:43:54</sys_updated_on>
+        <sys_user_role display_value="x_1425817_loan_veh.lva_user" name="x_1425817_loan_veh.lva_user">ea70e7bd9377c210115230018bba106a</sys_user_role>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Loan Vehicle App">799fd3719377c210115230018bba101e</application>
+        <file_path/>
+        <instance_id>9fb1b654db823994199b1729139619b7</instance_id>
+        <instance_name>dev189982</instance_name>
+        <name>sys_security_acl_role_84246dbe93f78210115230018bba1044</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-08-07 10:43:54</sys_created_on><sys_id>84246dbe93f78210115230018bba1044</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1425817_loan_veh_loaner_catalog.x_1425817_loan_veh.lva_user</sys_name><sys_package display_value="Loan Vehicle App" source="x_1425817_loan_veh">799fd3719377c210115230018bba101e</sys_package><sys_policy/><sys_scope display_value="Loan Vehicle App">799fd3719377c210115230018bba101e</sys_scope><sys_security_acl display_value="x_1425817_loan_veh_loaner_catalog">84246dbe93f78210115230018bba1041</sys_security_acl><sys_update_name>sys_security_acl_role_84246dbe93f78210115230018bba1044</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-08-07 10:43:54</sys_updated_on><sys_user_role display_value="x_1425817_loan_veh.lva_user" name="x_1425817_loan_veh.lva_user">ea70e7bd9377c210115230018bba106a</sys_user_role></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>-1697943690</payload_hash>
+        <record_name>x_1425817_loan_veh_loaner_catalog.x_1425817_loan_veh.lva_user</record_name>
+        <reverted_from/>
+        <source>4a9fd3719377c210115230018bba1022</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-07 10:43:54</sys_created_on>
+        <sys_id>4c246dbe93f78210115230018bba1046</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1912c702b530000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-07 10:43:54</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>80246dbeb1f782107c351abca6e11e46</update_guid>
+        <update_guid_history>80246dbeb1f782107c351abca6e11e46:-1697943690</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_1425817_loan_veh_loaner_catalog.x_1425817_loan_veh.lva_user">7547edb2933b8210115230018bba1024</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-07 10:57:40</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>2306e24fdf8245e09e2003549db3d840</sys_id>
+        <sys_metadata>84246dbe93f78210115230018bba1044</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1425817_loan_veh_loaner_catalog.x_1425817_loan_veh.lva_user</sys_name>
+        <sys_package display_value="Loan Vehicle App" source="x_1425817_loan_veh">799fd3719377c210115230018bba101e</sys_package>
+        <sys_parent display_value="">84246dbe93f78210115230018bba1041</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Loan Vehicle App">799fd3719377c210115230018bba101e</sys_scope>
+        <sys_scope_delete display_value="">29fd45a9a2944d799efe5e5de17fd019</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_84246dbe93f78210115230018bba1044</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_84246dbe93f78210115230018bba1044">4c246dbe93f78210115230018bba1046</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-07 10:57:40</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
